@@ -11,7 +11,7 @@ Steps:
 
 Create a new folder on your local computer with the name: personal-resume-website
 Create an index.html file with the general template code
-Create a style.css file and add this to your HTML file as <link> (check how to add CSS to an HTML file)
+Create a style.css file and add this to your HTML file as a <link>
 Make sure you have My Resume App as the title in your HTML (this will show in the tab when your app runs in the browser)
 Build the page according to the example (try to use "poppins and sansarif" as a font) add the link from google and attest it at the top of css.
 Use your professional photographs you to give it an elegant look
