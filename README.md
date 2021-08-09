@@ -10,6 +10,7 @@ We will be creating an one page resume with all relevant informations and link o
 ## Steps:
 
 1. Create a new folder on your local computer with the name: personal-resume-website
+1. Track your code with Git by using git init in the terminal
 2. Create an index.html file with the general template code
 4. Create a style.css file and add this to your HTML file as a <link>
 5. Make sure you have My Resume App as the title in your HTML (this will show in the tab when your app runs in the browser)
