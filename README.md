@@ -16,7 +16,7 @@ To see the page in more detail, have a look in the `examples` folder. There are 
 1. Track your code with Git by using git init in the terminal
 2. Create an index.html file with the general template code
 4. Create a style.css file and add this to your HTML file as a <link>
-5. Make sure you have My Resume App as the title in your HTML (this will show in the tab when your app runs in the browser)
+5. Make sure you have **Resume *yourname*** as the title in the HTML (this will show in the tab when your app runs in the browser)
 6. Build the page according to the example (try to use "poppins and sansarif" as a font) add the link from google and attest it at the top of css.
 7. Use your professional photographs of your to give it an elegant look
 8. Use flex box or grid to work with layout. 
