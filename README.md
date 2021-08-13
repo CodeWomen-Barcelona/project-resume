@@ -4,11 +4,11 @@
 
 **Basic functionality:** We will be creating a web page with your personal resume, with all relevant information and links, for example to your LinkedIn profile and GitHub account.
 
-# Use Only CSS & HTML to work On it #
+Below is an example of a resume webpage:
 
+<img src="./examples/full_sample.png" width="600" />
 
-
-## Steps:
+### For starters
 
 1. Create a new folder on your local computer with the name: personal-resume-website
 1. Track your code with Git by using git init in the terminal
