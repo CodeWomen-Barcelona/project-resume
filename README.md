@@ -1,7 +1,8 @@
-//////...Project Personal Resume Website...//////
+## Project Online Resume
 
-The goal of this project is to practice working with HTML and CSS
-We will be creating an one page resume with all relevant informations and link of own
+### The goal of this project is to practice working with HTML and CSS.
+
+**Basic functionality:** We will be creating a web page with your personal resume, with all relevant information and links, for example to your LinkedIn profile and GitHub account.
 
 # Use Only CSS & HTML to work On it #
 
