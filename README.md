@@ -6,7 +6,9 @@
 
 Below is an example of a resume webpage:
 
-<img src="./examples/full_sample.png" width="600" />
+<img src="./examples/full_sample.png" width="500" />
+
+To see the page in more detail, have a look in the `examples` folder. There are screenshots of the full resume page, and of the top and bottom parts separately.
 
 ### For starters
 
