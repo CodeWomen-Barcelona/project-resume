@@ -18,11 +18,16 @@ To see the page in more detail, have a look in the `examples` folder. There are 
 4. Create a style.css file and add this to your HTML file as a <link>
 5. Make sure you have **Resume *yourname*** as the title in the HTML (this will show in the tab when your app runs in the browser)
 6. Build the page according to the example (try to use "poppins and sansarif" as a font) add the link from google and attest it at the top of css.
-7. Use your professional photographs of your to give it an elegant look
-8. Use flex box or grid to work with layout. 
+7. Use your professional photographs of yourself to give it an elegant look
+8. Use flexbox or CSS Grid to work with layout 
 9. Feel free to use Bootstrap if you also want to practise that 😊
 10. For icons visit this page <https://fontawesome.com/v4.7/icons/>
-11. To access those icons go to this route  <https://cdnjs.com/libraries/font-awesome> and and copy the cdn link &  add this in your html header.
-12. Use media querie to make it responsive.
+11. To access those icons go to this route  <https://cdnjs.com/libraries/font-awesome>. You can copy the CDN link and add this in your HTML header as a stylesheet. NB: your own `style.css` file is always the last stylesheet in the `head` section of your HTML
+12. A good resume is just one page long and recruiters look at the resume only for a few seconds, so make sure the layout is inviting, not too much text, and clear headers that summarise the information in the section
 
-**Deploy-it-in-netlify-or-any-other-cloud-to-use-it-for-future**
+
+### For more advanced students
+
+1. Use media queries to make the page responsive so that it can be read on a mobile phone or tablet
+1. Deploy the webpage on Netlify or Heroku and check that the url includes your name
+
