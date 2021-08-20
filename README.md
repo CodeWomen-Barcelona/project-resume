@@ -33,5 +33,5 @@ To see the page in more detail, have a look in the `examples` folder. There are 
   * mobile phone
   * tablet
   * desktop
-1. Deploy the webpage on Netlify or Heroku and check that the url includes your name
+1. Deploy the webpage on Netlify or Heroku and check that the URL includes your name: it must be clear that it is *your* personal resume 😊
 
